@@ -1,6 +1,6 @@
-# Stock Price Dashboard
+# Internship Project: Stock Price Dashboard
 
-A modern, responsive stock price dashboard built with React, TypeScript, and Tailwind CSS.
+A modern, responsive stock price dashboard built with React, TypeScript, and Tailwind CSS as part of an internship project demonstrating full-stack development skills.
 
 ## Features
 
@@ -111,6 +111,15 @@ src/
 - **Chart Toggle**: Switch between table and chart views
 - **Error Recovery**: Retry buttons and graceful error handling
 - **Performance**: Optimized re-renders and efficient data updates
+
+## About This Project
+
+This project was developed as part of an internship to demonstrate:
+- Modern React development with TypeScript
+- Responsive UI/UX design with Tailwind CSS
+- API integration and data visualization
+- Error handling and user experience best practices
+- Production deployment and DevOps skills
 
 ## License
 

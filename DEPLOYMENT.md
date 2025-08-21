@@ -3,6 +3,7 @@
 ## Quick Deploy Options
 
 ### 1. Vercel (Recommended)
+
 1. Push your code to GitHub
 2. Go to [vercel.com](https://vercel.com)
 3. Import your GitHub repository
@@ -10,12 +11,14 @@
 5. Your app will be live at `https://your-app-name.vercel.app`
 
 ### 2. Netlify
+
 1. Run `npm run build` to create the production build
 2. Go to [netlify.com](https://netlify.com)
 3. Drag and drop the `build` folder to deploy
 4. Or connect your GitHub repo for automatic deployments
 
 ### 3. GitHub Pages
+
 1. Install gh-pages: `npm install --save-dev gh-pages`
 2. Add to package.json scripts: `"predeploy": "npm run build", "deploy": "gh-pages -d build"`
 3. Run: `npm run deploy`
@@ -47,6 +50,7 @@ If you want to use a real stock API:
 ## Monitoring
 
 After deployment, you can monitor your app with:
+
 - Vercel Analytics (built-in)
 - Google Analytics
 - Sentry for error tracking
